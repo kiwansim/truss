@@ -1,0 +1,11 @@
+.tableWrapper {
+    padding-left: 5rem;
+    padding-right: 5rem;
+    padding-bottom: 2rem;
+}
+
+.planetName:hover {
+    background-color: #CFE2F3;
+    color: blue;
+    text-decoration: underline;      
+}

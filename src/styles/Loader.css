@@ -1,0 +1,17 @@
+.spinner {
+    padding-top: 1rem;
+}
+
+.loadingText {
+  align-items: center;
+  font-size: 16px;
+  color: grey;
+  padding-top: 1rem;
+}
+
+.errorText {
+align-items: center;
+  font-size: 16px;
+  color: red;
+  padding-top: 1rem;
+}
